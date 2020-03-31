@@ -1,0 +1,29 @@
+// Desafio #aula1 - Quarentena Dev
+
+//Para essa aula, deixamos como desafio você tentar fazer o cálculo de batimentos cárdiacos e mandar isso no canal! Isto é: dada a sua idade, quantas vezes seu coração já bateu? Sim, é uma estimativa
+
+//Exemplo:
+alert("Meu nome é Leandro e tenho " + (7*5+2) + " anos!")
+
+//Desafio - Cálculo de Batidas Cardíacas:
+//O nosso coração bate uma média de 75 vezes por minuto aproximadamente. 
+//Sabemos que 1 hora tem 60 minutos. 
+//Com essa informação conseguimos descobrir quantas batidas por hora o coração dá.
+
+alert("Meu nome é Leandro, 37 anos, portanto, meu coração já bateu mais de " + ((((65*60)*24)*365)*37) + " vezes na vida!")
+
+//O criador de galinha me falou o seguinte: 
+//"Comprei 15 galinhas por 300 reias" Quanto ele pagou por cada galinha?
+
+alert("O criador de galinhas pagou " + 15*300 + " Reais")
+
+//Maria foi a padaria e comprou 19 balas, depois voltou a padaria e comprou mais 45. 
+//Quantas balas Maria tem agora?
+
+alert("Maria tem " + 19+45 + " balas agora")
+
+//Para calcular a área de uma circunferência usamos a seguinte fórmula: 
+//area = pi x raio x raio. 
+//O valor de pi = 3.14, se o valor do meu raio é 2 qual a área da circunferência?
+
+alert("A área da circunferência é " + ((3.14*2)*2) + "")
