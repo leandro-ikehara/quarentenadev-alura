@@ -16,12 +16,12 @@ alert("Meu nome é Leandro, 37 anos, portanto, meu coração já bateu mais de "
 //O criador de galinha me falou o seguinte: 
 //"Comprei 15 galinhas por 300 reias" Quanto ele pagou por cada galinha?
 
-alert("O criador de galinhas pagou " + 15*300 + " Reais")
+alert("O criador de galinhas pagou R$ " + 300/15 + " por cada galinha")
 
 //Maria foi a padaria e comprou 19 balas, depois voltou a padaria e comprou mais 45. 
 //Quantas balas Maria tem agora?
 
-alert("Maria tem " + 19+45 + " balas agora")
+alert("Maria tem " + (19+45) + " balas agora")
 
 //Para calcular a área de uma circunferência usamos a seguinte fórmula: 
 //area = pi x raio x raio. 
