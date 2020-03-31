@@ -1,6 +1,7 @@
 // Desafio #aula1 - Quarentena Dev
 
-//Para essa aula, deixamos como desafio você tentar fazer o cálculo de batimentos cárdiacos e mandar isso no canal! Isto é: dada a sua idade, quantas vezes seu coração já bateu? Sim, é uma estimativa
+//Para essa aula, deixamos como desafio você tentar fazer o cálculo de batimentos cárdiacos e mandar isso no canal! 
+//Isto é: dada a sua idade, quantas vezes seu coração já bateu? Sim, é uma estimativa
 
 //Exemplo:
 alert("Meu nome é Leandro e tenho " + (7*5+2) + " anos!")
