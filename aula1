@@ -11,7 +11,7 @@ alert("Meu nome é Leandro e tenho " + (7*5+2) + " anos!")
 //Sabemos que 1 hora tem 60 minutos. 
 //Com essa informação conseguimos descobrir quantas batidas por hora o coração dá.
 
-alert("Meu nome é Leandro, 37 anos, portanto, meu coração já bateu mais de " + ((((65*60)*24)*365)*37) + " vezes na vida!")
+alert("Meu nome é Leandro, tenho 37 anos, portanto, meu coração já bateu mais de " + ((((65*60)*24)*365)*37) + " vezes até agora!")
 
 //O criador de galinha me falou o seguinte: 
 //"Comprei 15 galinhas por 300 reias" Quanto ele pagou por cada galinha?
