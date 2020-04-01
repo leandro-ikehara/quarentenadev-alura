@@ -1,0 +1,29 @@
+//Desafios - aula 2:
+
+//O IMC é calculado dividindo o peso pela altura elevada ao quadrado. Será que você consegue descobrir qual o seu IMC?
+
+meupeso = prompt("Informe o seu peso")
+
+minhaaltura = prompt("Informe a sua altura")
+
+document.write("Se seu peso é ", meupeso, "kg e sua altura é ", minhaaltura, "m, seu IMC é ", meupeso/(minhaaltura*minhaaltura), ".")
+
+//Guilherme tem 30 anos e tem 3 irmãs, 
+//a Carol que tem 20 anos, 
+// Márcia que tem 15, 
+//Patrícia que tem 10 anos. 
+//Qual a média de idade da família do Guilherme?
+
+guilherme = 30
+carol = 20
+marcia = 15
+patricia = 10
+
+document.write("A média da família de Guilherme é ", (guilherme+carol+marcia+patricia)/4, ".")
+
+
+//Quantos anos tem a avó da amiga da Maria que nasceu em 1940?
+nascimentodaveia = 1940
+anoatual = 2020
+
+document.write("A avó da sua amiga tem ", anoatual-nascimentodaveia, " anos.")
